@@ -119,3 +119,7 @@ ASL_RECOGNITION/
 - scikit-learn
 - Pickle
 
+
+
+ChatGPT and Claude.ai were briefly used to aid in machine learning
+
